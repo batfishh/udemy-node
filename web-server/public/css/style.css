@@ -1,7 +1,11 @@
-h1{
-    color: green;
-}
+body{
+    color:grey;
+    font-family: arial;
+    max-width:650px;
+    margin:0 auto;
+    padding: 0 16px;
 
+}
 img{
     width: 200px;
     height: 250px;
